@@ -1,3 +1,11 @@
+# aboutPage
+
+## 基于amphineko修改的一个关于我的页面
+
+将个人资料改成了我的了(
+
+以下是原README
+
 # ~/amphineko
 
 This repository is a development copy of my homepage ([https://futa.moe/amphineko/](https://futa.moe/amphineko/)), which can be used as a template.

@@ -9,8 +9,10 @@
 @import "stylesheets/labels.scss";
 
 body {
-    background: url('./assets/images/header-background.svg') #466685;
-    background-size: cover;
+    // background: url('./assets/images/header-background.svg') #466685;
+    // background-size: cover;
+
+    background: url('./assets/images/nat-pants.png');
 
     font-size: 1em;
     margin: 0;
@@ -26,6 +28,14 @@ html {
     font-family: "Helvetica Neue", Helvetica, Arial, PingFangTC-Light, "Microsoft YaHei", 微软雅黑, "STHeiti Light", STXihei, "华文细黑", Heiti, 黑体, sans-serif;
     margin: 0;
     padding: 0;
+}
+
+.header {
+    background-color: #409EFF;
+}
+
+.intro {
+    background: url('./assets/images/nat-pants-ng.png');
 }
 
 #container {
